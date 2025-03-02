@@ -1,0 +1,90 @@
+/* Style for the entire body */
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #559692;
+}
+
+/* Style for the main heading */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Style for the unordered list */
+ul {
+    list-style-type: none;  /* Remove default bullets */
+    padding-left: 0;
+}
+
+/* Style for list items */
+li {
+    background-color: #fff;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the first level items */
+ul > li {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #e7f1f7;
+}
+
+/* Style for nested lists */
+ul ul {
+    margin-left: 20px;  /* Indentation for nested lists */
+}
+
+/* Style for nested list items */
+ul ul li {
+    background-color: #e1e9f0;
+    font-size: 16px;
+}
+
+/* Style for the innermost nested lists */
+ul ul ul {
+    margin-left: 20px;
+}
+
+/* Style for the innermost list items */
+ul ul ul li {
+    background-color: #d4e1f2;
+    font-size: 14px;
+}
+* Style for nested list items */
+ul ul li {
+    background-color: #e1e9f0;
+    font-size: 16px;
+}
+
+/* Style for the innermost nested lists */
+ul ul ul {
+    margin-left: 20px;
+}
+
+/* Style for the innermost list items */
+ul ul ul li {
+    background-color: #446a9c;
+    font-size: 14px;
+}* Style for nested list items */
+ul ul li {
+    background-color: #bacfe2;
+    font-size: 16px;
+}
+
+/* Style for the innermost nested lists */
+ul ul ul {
+    margin-left: 20px;
+}
+
+/* Style for the innermost list items */
+ul ul ul li {
+    background-color: #d4e1f2;
+    font-size: 14px;
+}
